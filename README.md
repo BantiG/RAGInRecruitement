@@ -1,13 +1,14 @@
 # RAGInRecruitement
 This project demonstrates a simple AI-driven job description and resume matching system using Llama-2-7b, GPT-J embeddings, FAISS, and SageMaker.
+
 # Notebook:
  
 Features:
 
 - Loads job descriptions and resumes from local directories.
-- Uses **GPT-J embeddings** for generating vector representations of resumes and job descriptions.
-- Implements **FAISS** for efficient similarity-based search.
-- Generates context-aware responses using **Llama-2-7b**.
+- Uses GPT-J embeddings for generating vector representations of resumes and job descriptions.
+- Implements FAISS for efficient similarity-based search.
+- Generates context-aware responses using Llama-2-7b.
 
 recruiter-assist-RAG.ipynb - Six key components
 
