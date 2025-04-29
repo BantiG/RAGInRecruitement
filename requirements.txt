@@ -1,0 +1,7 @@
+faiss-cpu
+langchain
+transformers
+torch
+boto3
+tqdm
+PyYAML
